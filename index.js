@@ -53,6 +53,7 @@ const temperatureInt = Math.floor(temperature);
     list.style.backgroundColor = 'gray';
     list.style.padding = '10px';
     list.style.color = 'white';
+    list.className='list'
 }
 
 

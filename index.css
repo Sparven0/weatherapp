@@ -1,0 +1,25 @@
+.list{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: inside;
+}
+body{
+    text-align: center;
+    background-color: aqua;
+}
+header{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+button{
+    height: 50px;
+    font-size: 15px;
+}
+input{
+    height: 45px;
+    text-align: center;
+}
+
